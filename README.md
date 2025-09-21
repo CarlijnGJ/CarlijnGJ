@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlijnGJ
 - 👀 I’m interested in coding, videogames, creative writing and fantasy.
-- 🌱 I’m currently learning React and already know HTML, PHP, SQL, some C# and a decent bit of Java.
+- 🌱 I’m currently learning React and already know HTML, PHP, SQL, JS, Java, some C# and a bit of Python.
 - 💞️ I’m not actively looking to collaborate on anything, but inquiries are always optional.
 
 <!---
